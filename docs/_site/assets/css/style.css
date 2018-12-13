@@ -318,4 +318,4 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-.page-header { background: #191c20; }
+.page-header { background: url("../images/background.jpg") 0 0 no-repeat; background-size: contain; height: 0; padding-top: 56.25%; }
