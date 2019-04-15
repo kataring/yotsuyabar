@@ -1,3 +1,1 @@
-# yotsuyabar.com
-
-- https://yotsuyabar.com
+# yotsuyabar.jp
